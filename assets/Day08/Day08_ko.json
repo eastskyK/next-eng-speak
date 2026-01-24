@@ -1,0 +1,183 @@
+{
+  "source": "/Volumes/DonghoMac/workspace/Dialog1000/CallieDailyMp3/Day08.mp3",
+  "model": "medium",
+  "language": "en",
+  "sentences": [
+    {
+      "file": "Day08_001.mp3",
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Day 8.",
+      "text_ko": "8일 차."
+    },
+    {
+      "file": "Day08_002.mp3",
+      "start": 4.7,
+      "end": 5.42,
+      "text": "Lazy Day.",
+      "text_ko": "늘어지는 하루."
+    },
+    {
+      "file": "Day08_003.mp3",
+      "start": 6.62,
+      "end": 8.18,
+      "text": "I'm officially doing nothing today.",
+      "text_ko": "오늘은 공식적으로 아무것도 안 할 거야."
+    },
+    {
+      "file": "Day08_004.mp3",
+      "start": 8.56,
+      "end": 10.94,
+      "text": "Sweats are on, to -do list is cancelled.",
+      "text_ko": "트레이닝복 입었고, 할 일 목록은 취소."
+    },
+    {
+      "file": "Day08_005.mp3",
+      "start": 11.5,
+      "end": 12.78,
+      "text": "Having a lazy day today?",
+      "text_ko": "오늘 완전 쉬는 날이야?"
+    },
+    {
+      "file": "Day08_006.mp3",
+      "start": 13.4,
+      "end": 13.72,
+      "text": "Yup.",
+      "text_ko": "응."
+    },
+    {
+      "file": "Day08_007.mp3",
+      "start": 14.0,
+      "end": 18.14,
+      "text": "I treated myself to an iced latte and now I'm deciding what to binge watch.",
+      "text_ko": "아이스 라테 한 잔 마시면서 뭐 몰아볼지 고르는 중이야."
+    },
+    {
+      "file": "Day08_008.mp3",
+      "start": 18.72,
+      "end": 19.2,
+      "text": "Nice.",
+      "text_ko": "좋다."
+    },
+    {
+      "file": "Day08_009.mp3",
+      "start": 19.68,
+      "end": 22.54,
+      "text": "Let me guess, some crazy reality show?",
+      "text_ko": "설마 또 정신없는 리얼리티 쇼?"
+    },
+    {
+      "file": "Day08_010.mp3",
+      "start": 22.94,
+      "end": 23.78,
+      "text": "Of course.",
+      "text_ko": "당연하지."
+    },
+    {
+      "file": "Day08_011.mp3",
+      "start": 24.12,
+      "end": 25.28,
+      "text": "The messier the better.",
+      "text_ko": "막장일수록 좋아."
+    },
+    {
+      "file": "Day08_012.mp3",
+      "start": 25.82,
+      "end": 26.4,
+      "text": "Wanna join?",
+      "text_ko": "같이 볼래?"
+    },
+    {
+      "file": "Day08_013.mp3",
+      "start": 26.66,
+      "end": 27.72,
+      "text": "I just ordered food.",
+      "text_ko": "방금 음식 시켰어."
+    },
+    {
+      "file": "Day08_014.mp3",
+      "start": 27.72,
+      "end": 29.84,
+      "text": "You know I can't say no to that.",
+      "text_ko": "그 말에 내가 싫다 할 수 없지."
+    },
+    {
+      "file": "Day08_015.mp3",
+      "start": 30.2,
+      "end": 30.9,
+      "text": "What'd you get?",
+      "text_ko": "뭐 시켰어?"
+    },
+    {
+      "file": "Day08_016.mp3",
+      "start": 31.54,
+      "end": 31.74,
+      "text": "Pizza.",
+      "text_ko": "피자."
+    },
+    {
+      "file": "Day08_017.mp3",
+      "start": 32.26,
+      "end": 34.1,
+      "text": "Felt like a comfort food kind of day.",
+      "text_ko": "오늘은 위로 음식이 땡기는 날이었어."
+    },
+    {
+      "file": "Day08_018.mp3",
+      "start": 34.66,
+      "end": 34.96,
+      "text": "Perfect.",
+      "text_ko": "완벽하다."
+    },
+    {
+      "file": "Day08_019.mp3",
+      "start": 35.48,
+      "end": 36.7,
+      "text": "Let's clear up on the couch.",
+      "text_ko": "소파로 집합."
+    },
+    {
+      "file": "Day08_020.mp3",
+      "start": 36.9,
+      "end": 39.06,
+      "text": "I'll grab the blanket, you grab the remote.",
+      "text_ko": "난 담요 가져올게, 넌 리모컨 챙겨."
+    },
+    {
+      "file": "Day08_021.mp3",
+      "start": 39.66,
+      "end": 39.86,
+      "text": "Deal.",
+      "text_ko": "콜."
+    },
+    {
+      "file": "Day08_022.mp3",
+      "start": 40.16,
+      "end": 41.58,
+      "text": "This is exactly what I needed.",
+      "text_ko": "지금 딱 필요했던 시간이야."
+    },
+    {
+      "file": "Day08_023.mp3",
+      "start": 42.28,
+      "end": 43.18,
+      "text": "Honestly, same.",
+      "text_ko": "진짜 나도."
+    },
+    {
+      "file": "Day08_024.mp3",
+      "start": 43.58,
+      "end": 45.38,
+      "text": "Let's be couch potatoes together.",
+      "text_ko": "같이 소파 감자 하자."
+    },
+    {
+      "file": "Day08_025.mp3",
+      "start": 71.5,
+      "end": 73.06,
+      "text": "I can't say no to that.",
+      "text_ko": "그건 거절 못 하지."
+    }
+  ],
+  "full_transcript": "Day 8. Lazy Day. I'm officially doing nothing today. Sweats are on, to-do list is cancelled. Having a lazy day today? Yup. I treated myself to an iced latte and now I'm deciding what to binge watch. Nice. Let me guess, some crazy reality show? Of course. The messier the better. Wanna join? I just ordered food. You know I can't say no to that. What'd you get? Pizza. Felt like a comfort food kind of day. Perfect. Let's clear up on the couch. I'll grab the blanket, you grab the remote. Deal. This is exactly what I needed. Honestly, same. Let's be couch potatoes together. I'm officially doing nothing today. Sweats are on, to-do list is cancelled. Having a lazy day today? Yup. I treated myself to an iced latte and now I'm deciding what to binge watch. Nice. Let me guess, some crazy reality show? Of course. The messier the better. Wanna join? I just ordered food. I can't say no to that. What'd you get? Pizza. Felt like a comfort food kind of day. Perfect. Let's clear up on the couch. I'll grab the blanket, you grab the remote. Deal. This is exactly what I needed. Honestly, same. Let's be couch potatoes together."
+}
