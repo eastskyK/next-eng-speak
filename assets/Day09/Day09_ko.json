@@ -1,0 +1,152 @@
+{
+  "source": "/Volumes/DonghoMac/workspace/Dialog1000/CallieDailyMp3/Day09.mp3",
+  "model": "medium",
+  "language": "en",
+  "sentences": [
+    {
+      "file": "Day09_001.mp3",
+      "start": 3.1599999999999993,
+      "end": 9.0,
+      "text": "Day 9 Deep Cleaning Once a week, I like to deep clean my house.",
+      "duration": 5.840000000000001,
+      "text_ko": "9일 차. 대청소."
+    },
+    {
+      "file": "Day09_002.mp3",
+      "start": 9.54,
+      "end": 10.86,
+      "text": "I start by decluttering.",
+      "duration": 1.3200000000000003,
+      "text_ko": "먼저 불필요한 물건부터 정리해요."
+    },
+    {
+      "file": "Day09_003.mp3",
+      "start": 11.26,
+      "end": 13.34,
+      "text": "If I don't use it, it's got to go.",
+      "duration": 2.08,
+      "text_ko": "안 쓰는 거면 과감하게 버려요."
+    },
+    {
+      "file": "Day09_004.mp3",
+      "start": 13.74,
+      "end": 18.52,
+      "text": "I go through closets, drawers, and random junk that somehow piles up.",
+      "duration": 4.779999999999999,
+      "text_ko": "옷장이나 서랍, 여기저기 쌓인 잡동사니를 다 훑어봐요."
+    },
+    {
+      "file": "Day09_005.mp3",
+      "start": 18.98,
+      "end": 25.7,
+      "text": "Once I've cleared the clutter, I wipe down all surfaces, dust the shelves, and vacuum every corner of my house.",
+      "duration": 6.719999999999999,
+      "text_ko": "정리 끝나면 모든 표면을 닦고, 선반 먼지 털고, 집 구석구석 청소기를 돌려요."
+    },
+    {
+      "file": "Day09_006.mp3",
+      "start": 25.7,
+      "end": 30.98,
+      "text": "I make sure to get the hard to reach spots I usually ignore, like behind the couch.",
+      "duration": 5.280000000000001,
+      "text_ko": "평소에 잘 안 닦는 소파 뒤 같은 곳도 꼭 챙겨요."
+    },
+    {
+      "file": "Day09_007.mp3",
+      "start": 31.56,
+      "end": 35.74,
+      "text": "I also do the dishes, wipe down appliances, and clean out the fridge.",
+      "duration": 4.180000000000003,
+      "text_ko": "설거지도 하고, 가전도 닦고, 냉장고 정리도 해요."
+    },
+    {
+      "file": "Day09_008.mp3",
+      "start": 36.4,
+      "end": 43.14,
+      "text": "Then, I grab my broom and dustpan to sweep the floor and pick up any dust or crumbs before I mop.",
+      "duration": 6.740000000000002,
+      "text_ko": "그다음엔 바닥을 쓸고 물걸레질하기 전에 먼지랑 부스러기를 정리해요."
+    },
+    {
+      "file": "Day09_009.mp3",
+      "start": 43.8,
+      "end": 45.66,
+      "text": "Next, I do a load of laundry.",
+      "duration": 1.8599999999999994,
+      "text_ko": "이제 세탁 한 번 돌리고요."
+    },
+    {
+      "file": "Day09_010.mp3",
+      "start": 46.12,
+      "end": 49.92,
+      "text": "I sort my clothes and throw them in the washer with laundry detergent.",
+      "duration": 3.8000000000000043,
+      "text_ko": "옷을 분류해서 세제 넣고 세탁기에 돌려요."
+    },
+    {
+      "file": "Day09_011.mp3",
+      "start": 50.38,
+      "end": 52.28,
+      "text": "I make sure to change out the bedding too.",
+      "duration": 1.8999999999999986,
+      "text_ko": "침구도 같이 갈아줘요."
+    },
+    {
+      "file": "Day09_012.mp3",
+      "start": 52.28,
+      "end": 58.88,
+      "text": "After switching the laundry to the dryer, I move on to the bathroom, which is my least favorite part of cleaning.",
+      "duration": 6.600000000000001,
+      "text_ko": "세탁물을 건조기로 옮기고 나면, 제일 싫어하는 욕실 청소로 넘어가요."
+    },
+    {
+      "file": "Day09_013.mp3",
+      "start": 59.52,
+      "end": 67.98,
+      "text": "I grab my scrub brush and go to town scrubbing the sink, tub, and toilet, making sure to get rid of any soap scum or water stains.",
+      "duration": 8.46,
+      "text_ko": "솔 들고 세면대랑 욕조, 변기를 박박 닦아서 물때랑 비누 찌꺼기를 다 없애요."
+    },
+    {
+      "file": "Day09_014.mp3",
+      "start": 68.64,
+      "end": 72.88,
+      "text": "Then, I mop the floors, take out the trash, and sort the recycling.",
+      "duration": 4.239999999999995,
+      "text_ko": "마무리로 바닥 닦고, 쓰레기 버리고, 분리수거도 해요."
+    },
+    {
+      "file": "Day09_015.mp3",
+      "start": 73.56,
+      "end": 76.7,
+      "text": "To finish up, I fold clothes and put everything away.",
+      "duration": 3.1400000000000006,
+      "text_ko": "마지막으로 빨래 개서 제자리에 정리해요."
+    },
+    {
+      "file": "Day09_016.mp3",
+      "start": 77.3,
+      "end": 79.66,
+      "text": "Deep cleaning takes a while, but it's worth it.",
+      "duration": 2.3599999999999994,
+      "text_ko": "대청소는 시간이 꽤 걸리지만, 그만한 가치가 있어요."
+    },
+    {
+      "file": "Day09_017.mp3",
+      "start": 79.66,
+      "end": 84.46,
+      "text": "There's nothing better than relaxing in a spotless home after all that work.",
+      "duration": 4.799999999999997,
+      "text_ko": "다 끝내고 나서 깨끗한 집에서 쉬는 것만큼 좋은 게 없어요."
+    },
+    {
+      "file": "Day09_018.mp3",
+      "start": 88.14,
+      "end": 90.86,
+      "text": "Once a week, I like to deep clean my house.",
+      "duration": 2.719999999999999,
+      "text_ko": "일주일에 한 번은 집을 제대로 청소하는 편이에요."
+    }
+  ],
+  "full_transcript": "Day 9 Deep Cleaning Once a week, I like to deep clean my house. I start by decluttering. If I don't use it, it's got to go. I go through closets, drawers, and random junk that somehow piles up. Once I've cleared the clutter, I wipe down all surfaces, dust the shelves, and vacuum every corner of my house. I make sure to get the hard to reach spots I usually ignore, like behind the couch. I also do the dishes, wipe down appliances, and clean out the fridge. Then, I grab my broom and dustpan to sweep the floor and pick up any dust or crumbs before I mop. Next, I do a load of laundry. I sort my clothes and throw them in the washer with laundry detergent. I make sure to change out the bedding too. After switching the laundry to the dryer, I move on to the bathroom, which is my least favorite part of cleaning. I grab my scrub brush and go to town scrubbing the sink, tub, and toilet, making sure to get rid of any soap scum or water stains. Then, I mop the floors, take out the trash, and sort the recycling. To finish up, I fold clothes and put everything away. Deep cleaning takes a while, but it's worth it. There's nothing better than relaxing in a spotless home after all that work. Once a week, I like to deep clean my house. I start by decluttering. If I don't use it, it's got to go. I go through closets, drawers, and random junk that somehow piles up. Once I've cleared the clutter, I wipe down all surfaces, dust the shelves, and vacuum every corner of my house. I make sure to get the hard-to-reach spots I usually ignore, like behind the couch. I also do the dishes, wipe down appliances, and clean out the fridge. Then, I grab my broom and dustpan to sweep the floor and pick up any dust or crumbs before I mop. Next, I do a load of laundry. I sort my clothes and throw them in the washer with laundry detergent. I make sure to change out the bedding too. After switching the laundry to the dryer, I move on to the bathroom, which is my least favorite part of cleaning. I grab my scrub brush and go to town scrubbing the sink, tub, and toilet, making sure to get rid of any soap scum or water stains. Then, I mop the floors, take out the trash, and sort the recycling. To finish up, I fold clothes and put everything away. Deep cleaning takes a while, but it's worth it. There's nothing better than relaxing in a spotless home after all that work."
+}
