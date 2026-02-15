@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Geist, Geist_Mono, Noto_Sans } from "next/font/google";
 import "./globals.css";
 
@@ -40,6 +41,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={notoSans.variable}>
+      <head>
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3533644984596346"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
