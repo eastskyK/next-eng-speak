@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+
+User-Agent: AdsBot-Google
+Allow: /
+
+User-Agent: Google-Adsense
+Allow: /
+
+Sitemap: https://eastsky21.online/sitemap.xml

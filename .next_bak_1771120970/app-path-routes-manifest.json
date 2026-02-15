@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/audio/[day]/[file]/route": "/api/audio/[day]/[file]",
+  "/api/day/[day]/route": "/api/day/[day]",
+  "/contact/page": "/contact",
+  "/favicon.ico/route": "/favicon.ico",
+  "/icon.svg/route": "/icon.svg",
+  "/opengraph-image/route": "/opengraph-image",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml"
+}

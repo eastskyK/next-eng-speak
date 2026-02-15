@@ -1,6 +1,7 @@
 "use client"
 
 import * as React from "react"
+import Link from "next/link"
 
 type Sentence = {
   file: string
@@ -285,6 +286,35 @@ export function EnglishPractice({ days }: EnglishPracticeProps) {
             </div>
           </div>
         </section>
+
+        <footer className="animate-rise rounded-3xl border border-white/80 bg-white/85 px-6 py-5 text-sm text-slate-600 shadow-[0_20px_50px_-35px_rgba(15,23,42,0.5)] backdrop-blur md:px-8">
+          <div className="flex flex-wrap items-center justify-between gap-4">
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-400">
+                EastSky21 English Studio
+              </p>
+              <p className="mt-2 max-w-2xl text-sm text-slate-600">
+                매일 한국어 문장을 영어로 바꾸며 말하기 감각을 키우는 개인
+                학습 공간입니다.
+              </p>
+            </div>
+            <div className="flex flex-wrap items-center gap-4 text-sm font-semibold text-slate-700">
+              <Link className="transition hover:text-slate-900" href="/about">
+                About
+              </Link>
+              <Link className="transition hover:text-slate-900" href="/contact">
+                Contact
+              </Link>
+              <Link className="transition hover:text-slate-900" href="/privacy">
+                Privacy
+              </Link>
+            </div>
+          </div>
+          <div className="mt-4 flex flex-wrap items-center justify-between gap-3 border-t border-slate-200 pt-4 text-xs text-slate-500">
+            <span>문의: eastsky21@gmail.com</span>
+            <span>© 2026 EastSky21. All rights reserved.</span>
+          </div>
+        </footer>
       </main>
     </div>
   )

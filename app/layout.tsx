@@ -3,7 +3,10 @@ import Script from "next/script";
 import { Geist, Geist_Mono, Noto_Sans } from "next/font/google";
 import "./globals.css";
 
-const notoSans = Noto_Sans({variable:'--font-sans'});
+const notoSans = Noto_Sans({
+  variable: "--font-sans",
+  subsets: ["latin"],
+});
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -40,7 +43,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={notoSans.variable}>
+    <html lang="ko" className={notoSans.variable}>
       <head>
         <Script
           async

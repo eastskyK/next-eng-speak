@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/audio/[day]/[file]": {},
+    "/api/day/[day]": {},
+    "/opengraph-image": {}
+  }
+}
